@@ -2,7 +2,10 @@
 
 .xls* to .pdf converters:
 
-jodconverter-local - use libreoffice for converting (the best choice) - is free
-aspose-cells - need for pay
-spire.xls.free - is free (sometime give incorrect .pdf)
-itextpdf - is free (worst)
+1. jodconverter-local - use libreoffice for converting (the best choice) - is free
+
+2. aspose-cells - need for pay
+
+3. spire.xls.free - is free (sometime give incorrect .pdf)
+
+4. itextpdf - is free (worst)
